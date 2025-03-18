@@ -1,0 +1,18 @@
+﻿2004	Comparison of fMRI Analysis Software: Localization Differences between FAMIS and SPM99	fmri analysis, software
+2004	The Assisted Diagnosis of Infancy Anorexia Base on A Radial Basis Function Probabilistic Neural Network Model	radial basis function probabilistic neural network, infancy anorexia, assisted diagnosis, (RBFPNN)
+2004	SPATIAL VISUALISATION AND QUANTIFICATION OF IMMUNOHISTOCHEMICAL REACTIONS IN LIGHT MICROSCOPY COLOUR  IMAGES	spatial visualisation, image analysis, renal interstitium, cd34, -smooth muscle actin
+2004	A Novel Individual Diabetic Decision Support Model in Diabetic Telecare	decision support model, diabetes decision support, decision algorithm
+2004	An algorithm and program for the analysis of respiration signals from chest strain-gauge recorders	strain gauge, classification, respiration, psychophysiology
+2004	Exploring the Use of Main Memory Database (MMDB) Technology for the Analysis of Gene Expression Microarray Data	high performance computing, bioinformatics, microarray, main memory database
+2004	Intramodality and Intermodality Registration of the Liver: Comparison of Voxel Similarity and Surface Based Registration Algorithms	mri, ct, itk, image registration, liver imaging
+2004	A long-term database integrated electronic medical record system and subsystems  - A support system for hospital administration and clinical research -	long-term database, electronic medical records, data mining
+2004	Knowledge Architecture upon Evidence Based Logical Atomism for translational research	post-genome, logical atomism, translational research, evidence based medicine, knowledge, anatomical structure, architecture
+2004	Condensed Cross-Clinical Knowledge	condensed, cross-clinical, knowledge, normalization, hierarchical expression, anatomical index
+2004	Applying Physical Condition in Estimation of Blood Glucose Level Using Data Mining	estimation, data mining, diabetic, blood glucose, physical condition
+2004	Computer Aided Breast Cancer Diagnosis with Optimal Feature Sets: Application of Safe Reduction Rules and Optimization Techniques	le gal type, feature set, breast cancer diagnosis, data reduction
+2004	Unanticipated Challenges Associated with a Computerized Order Entry Implementation	prescribing, medication errors, challenges, computerized order entry
+2004	Identifying projected vlusters from gene expression profiles	projected clustering, gene expression, data mining
+2004	BUNDLE BRANCH BLOCK CLASSIFICATION USING FUZZY CLUSTERING NEURAL NETWORK	keywords myocardial infarction, left bundle branch block, right bundle branch block, ann, fuzzy clustering
+2005	A Two-way Parallel Searching for Peptide Identification via Tandem Mass Spectrometry	tandem mass spectrometry, msms spectrum, proteomics, de novo peptide sequencing, two-way searching, algorithm, graph theory, b-ion, y-ion
+2005	Knowledge guided analysis of microarray data	expression data, gene ontology, clustering
+2005	PARM: A new approach for evaluating pharmacological repeated measurements	acute myocardial ischemia, pharmacological repeated measurements, collagen induced arthritis, pattern recognition

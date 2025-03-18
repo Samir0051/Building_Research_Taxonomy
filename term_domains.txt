@@ -1,0 +1,1273 @@
+﻿Body Regions        H
+Anatomic Landmarks        H
+Breast        H
+Extremities        H
+Head        H
+Neck        H
+Organs at Risk        H
+Torso        H
+Transplants        H
+Musculoskeletal System        H
+Cartilage        H
+Ligaments        H
+Muscles        H
+Skeleton        H
+Tendons        H
+Digestive System        H
+Biliary Tract        H
+Gastrointestinal Tract        H
+Liver        H
+Pancreas        H
+Respiratory System        H
+Larynx        H
+Lung        H
+Nose        H
+Pharynx        H
+Respiratory Mucosa        H
+Trachea        H
+Urogenital System        H
+Genitalia        H
+Urinary Tract        H
+Endocrine System        H
+Chromaffin System        H
+Endocrine Glands        H
+Enteroendocrine Cells        H
+Neurosecretory Systems        H
+Cardiovascular System        H
+Blood Vessels        H
+Blood-Air Barrier        H
+Blood-Brain Barrier        H
+Glomerular Filtration Barrier        H
+Heart        H
+Nervous System        H
+Central Nervous System        H
+Ganglia        M
+Nerve Net        M
+Neural Pathways        M
+Neuroglia        M
+Neurons        M
+Neurosecretory Systems        H
+Peripheral Nervous System        H
+Synapses        M
+Sense Organs        H
+Ear        H
+Eye        H
+Nose        H
+Taste Buds        H
+Vestibular System        H
+Tissues        M
+Body Fluid Compartments        M
+Connective Tissue        M
+Epithelium        M
+Exocrine Glands        M
+Lymphoid Tissue        M
+Membranes        M
+Muscles        M
+Nerve Tissue        M
+Organoids        M
+Surgically-Created Structures        M
+Cells        M
+Acinar Cells        M
+Antibody-Producing Cells        M
+Antigen-Presenting Cells        M
+Blood Cells        M
+Bone Marrow Cells        M
+Cells, Cultured        M
+Cellular Structures        M
+Chromaffin Cells        M
+Connective Tissue Cells        M
+Endocrine Cells        M
+Epidermal Cells        M
+Epithelial Cells        M
+Erythroid Cells        M
+Germ Cells        M
+Hepatic Stellate Cells        M
+Muscle Cells        M
+Myeloid Cells        M
+Neoplastic Cells, Circulating        M
+Neuroglia        M
+Neurons        M
+Pericytes        M
+Phagocytes        M
+Spores        M
+Stem Cells        M
+Thymocytes        M
+Fluids and Secretions        M
+Bodily Secretions        M
+Body Fluids        M
+Exudates and Transudates        M
+Feces        M
+Milk        M
+Animal Structures        M
+Compound Eye, Arthropod        M
+Electric Organ        M
+Embryo, Nonmammalian        M
+Forelimb        M
+Hepatopancreas        M
+Imaginal Discs        M
+Mammary Glands, Animal        M
+Mushroom Bodies        M
+Photoreceptor Cells, Invertebrate        M
+Vibrissae        M
+Stomatognathic System        H
+Jaw        H
+Mouth        H
+Pharynx        H
+Hemic and Immune Systems        H
+Blood        H
+Hematopoietic System        H
+Immune System        H
+Embryonic Structures        M
+Embryo, Mammalian        M
+Embryo, Nonmammalian        M
+Fetus        M
+Germ Layers        M
+Limb Buds        M
+Mullerian Ducts        M
+Neural Crest        M
+Ovum        H
+Placenta        H
+Integumentary System        H
+Hair        H
+Nails        H
+Skin        H
+Plant Structures        M
+Plant Components, Aerial        M
+Plant Roots        M
+Seedlings        M
+Fungal Structures        M
+Chromosomes, Fungal        M
+Fruiting Bodies, Fungal        M
+Mycelium        M
+Bacterial Structures        M
+Bacterial Outer Membrane        M
+Biofilms        M
+Ribosome Subunits, Large, Bacterial        M
+Ribosome Subunits, Small, Bacterial        M
+Viral Structures        M
+Virion        M
+Eukaryota        M
+Alveolata        M
+Amoebozoa        M
+Animals        M
+Euglenozoa        M
+Fungi        M
+Haptophyta        M
+Plants        M
+Stramenopiles        M
+Viridiplantae        M
+Archaea        M
+Crenarchaeota        M
+Bacteria        M
+Cyanobacteria        M
+Endospore-Forming Bacteria        M
+Firmicutes        M
+Gram-Negative Bacteria        M
+Gram-Positive Bacteria        M
+Proteobacteria        M
+Sulfur-Reducing Bacteria        M
+Viruses        M
+Archaeal Viruses        M
+Bacteriophages        M
+DNA Viruses        M
+Hepatitis Viruses        M
+Insect Viruses        M
+Oncogenic Viruses        M
+Plant Viruses        M
+Proviruses        M
+RNA Viruses        M
+Organism Forms        M
+Aquatic Organisms        M
+Chimera        M
+Life Cycle Stages        M
+Organisms, Genetically Modified        M
+Spores        M
+Infections        H
+Bacterial Infections and Mycoses        H
+Bone Diseases, Infectious        H
+Breakthrough Infections        H
+Cardiovascular Infections        H
+Catheter-Related Infections        H
+Central Nervous System Infections        H
+Coinfection        H
+Communicable Diseases        H
+Community-Acquired Infections        H
+Cross Infection        H
+Eye Infections        H
+Intraabdominal Infections        H
+Opportunistic Infections        H
+Parasitic Diseases        H
+Pelvic Infection        H
+Pregnancy Complications, Infectious        H
+Prosthesis-Related Infections        H
+Respiratory Tract Infections        H
+Sepsis        H
+Sexually Transmitted Diseases        H
+Skin Diseases, Infectious        H
+Suppuration        H
+Toxemia        H
+Urinary Tract Infections        H
+Vector Borne Diseases        H
+Virus Diseases        H
+Wound Infection        H
+Neoplasms        H
+Cysts        H
+Hamartoma        H
+Neoplasms by Histologic Type        H
+Neoplasms by Site        H
+Neoplasms, Experimental        H
+Neoplasms, Multiple Primary        H
+Neoplasms, Radiation-Induced        H
+Neoplasms, Second Primary        H
+Neoplastic Processes        H
+Neoplastic Syndromes, Hereditary        H
+Paraneoplastic Syndromes        H
+Precancerous Conditions        H
+Musculoskeletal Diseases        H
+Bone Diseases        H
+Jaw Diseases        H
+Joint Diseases        H
+Muscular Diseases        H
+Musculoskeletal Abnormalities        H
+Rheumatic Diseases        H
+Digestive System Diseases        H
+Biliary Tract Diseases        H
+Digestive System Abnormalities        H
+Digestive System Fistula        H
+Digestive System Neoplasms        H
+Gastrointestinal Diseases        H
+Liver Diseases        H
+Pancreatic Diseases        H
+Peritoneal Diseases        H
+Stomatognathic Diseases        H
+Jaw Diseases        H
+Mouth Diseases        H
+Pharyngeal Diseases        H
+Stomatognathic System Abnormalities        H
+Temporomandibular Joint Disorders        H
+Tooth Diseases        H
+Respiratory Tract Diseases        H
+Bronchial Diseases        H
+Laryngeal Diseases        H
+Lung Diseases        H
+Nose Diseases        H
+Pleural Diseases        H
+Respiration Disorders        H
+Respiratory Hypersensitivity        H
+Respiratory System Abnormalities        H
+Respiratory Tract Fistula        H
+Respiratory Tract Infections        H
+Respiratory Tract Neoplasms        H
+Tracheal Diseases        H
+Otorhinolaryngologic Diseases        H
+Ear Diseases        H
+Laryngeal Diseases        H
+Nose Diseases        H
+Otorhinolaryngologic Neoplasms        H
+Pharyngeal Diseases        H
+Nervous System Diseases        H
+Autoimmune Diseases of the Nervous System        H
+Autonomic Nervous System Diseases        H
+Central Nervous System Diseases        H
+Cranial Nerve Diseases        H
+Demyelinating Diseases        H
+Nervous System Malformations        H
+Nervous System Neoplasms        H
+Neurocutaneous Syndromes        H
+Neurodegenerative Diseases        H
+Neuroinflammatory Diseases        H
+Neurologic Manifestations        H
+Neuromuscular Diseases        H
+Neurotoxicity Syndromes        H
+Sleep Wake Disorders        H
+Trauma, Nervous System        H
+Eye Diseases        H
+Conjunctival Diseases        H
+Corneal Diseases        H
+Eye Abnormalities        H
+Eye Diseases, Hereditary        H
+Eye Hemorrhage        H
+Eye Infections        H
+Eye Injuries        H
+Eye Neoplasms        H
+Lacrimal Apparatus Diseases        H
+Lens Diseases        H
+Ocular Hypertension        H
+Ocular Hypotension        H
+Ocular Motility Disorders        H
+Optic Nerve Diseases        H
+Orbital Diseases        H
+Refractive Errors        H
+Retinal Diseases        H
+Uveal Diseases        H
+Vision Disorders        H
+Urogenital Diseases        H
+Female Urogenital Diseases and Pregnancy Complications        H
+Genital Diseases        H
+Male Urogenital Diseases        H
+Urogenital Abnormalities        H
+Urogenital Neoplasms        H
+Urologic Diseases        H
+Cardiovascular Diseases        H
+Cardiovascular Abnormalities        H
+Cardiovascular Infections        H
+Heart Diseases        H
+Pregnancy Complications, Cardiovascular        H
+Vascular Diseases        H
+Hemic and Lymphatic Diseases        H
+Hematologic Diseases        H
+Lymphatic Diseases        H
+Congenital, Hereditary, and Neonatal Diseases and Abnormalities        H
+Congenital Abnormalities        H
+Fetal Diseases        H
+Genetic Diseases, Inborn        H
+Infant, Newborn, Diseases        H
+Skin and Connective Tissue Diseases        H
+Connective Tissue Diseases        H
+Skin Diseases        H
+Nutritional and Metabolic Diseases        H
+Metabolic Diseases        H
+Nutrition Disorders        H
+Endocrine System Diseases        H
+Adrenal Gland Diseases        H
+Bone Diseases, Endocrine        H
+Diabetes Mellitus        H
+Dwarfism        H
+Endocrine Gland Neoplasms        H
+Gonadal Disorders        H
+Parathyroid Diseases        H
+Pituitary Diseases        H
+Thyroid Diseases        H
+Immune System Diseases        H
+Autoimmune Diseases        H
+Erythroblastosis, Fetal        H
+Glomerulonephritis, Membranoproliferative        H
+Graft vs Host Disease        H
+Hypersensitivity        H
+Immunologic Deficiency Syndromes        H
+Immunoproliferative Disorders        H
+Mast Cell Activation Disorders        H
+Transfusion Reaction        H
+Animal Diseases        H
+Bird Diseases        H
+Cat Diseases        H
+Disease Models, Animal        H
+Dog Diseases        H
+Fish Diseases        H
+Horse Diseases        H
+Lameness, Animal        H
+Mammary Neoplasms, Animal        H
+Primate Diseases        H
+Rodent Diseases        H
+Swine Diseases        H
+Pathological Conditions, Signs and Symptoms        H
+Morphological and Microscopic Findings        H
+Pathological Conditions, Anatomical        H
+Pathologic Processes        H
+Signs and Symptoms        H
+Occupational Diseases        H
+Occupational Stress        H
+Chemically-Induced Disorders        H
+Drug-Related Side Effects and Adverse Reactions        H
+Poisoning        H
+Substance-Related Disorders        H
+Wounds and Injuries        H
+Athletic Injuries        H
+Back Injuries        H
+Barotrauma        H
+Burns        H
+Joint Dislocations        H
+Foreign Bodies        H
+Fractures, Bone        H
+Heat Stress Disorders        H
+Hip Injuries        H
+Leg Injuries        H
+Radiation Injuries        H
+Rupture        H
+Shoulder Injuries        H
+Spinal Cord Injuries        H
+Sprains and Strains        H
+Surgical Wound        H
+Tendon Injuries        H
+Thoracic Injuries        H
+Trauma, Nervous System        H
+Wounds, Nonpenetrating        H
+Wounds, Penetrating        H
+Inorganic Chemicals        M
+Acids        M
+Alkalies        M
+Aluminum Compounds        M
+Boron Compounds        M
+Calcium Compounds        M
+Carbon Compounds, Inorganic        M
+Chlorine Compounds        M
+Coordination Complexes        M
+Electrolytes        M
+Elements        M
+Fluorine Compounds        M
+Free Radicals        M
+Gases        M
+Iodine Compounds        M
+Iron Compounds        M
+Isotopes        M
+Lithium Compounds        M
+Magnesium Compounds        M
+Manganese Compounds        M
+Metals        M
+Minerals        M
+Nitrogen Compounds        M
+Oxygen Compounds        M
+Phosphorus Compounds        M
+Platinum Compounds        M
+Silicon Compounds        M
+Sodium Compounds        M
+Sulfur Compounds        M
+Technetium Compounds        M
+Organic Chemicals        M
+Alcohols        M
+Aldehydes        M
+Amides        M
+Amidines        M
+Amines        M
+Anhydrides        M
+Aza Compounds        M
+Boron Compounds        M
+Carboxylic Acids        M
+Coordination Complexes        M
+Ethers        M
+Free Radicals        M
+Hydrocarbons        M
+Imides        M
+Imines        M
+Ketones        M
+Lactones        M
+Nitrates        M
+Nitriles        M
+Nitrites        M
+Nitro Compounds        M
+Nitroso Compounds        M
+Onium Compounds        M
+Organometallic Compounds        M
+Organophosphorus Compounds        M
+Organosilicon Compounds        M
+Quinones        M
+Sulfur Compounds        M
+Triazenes        M
+Volatile Organic Compounds        M
+Heterocyclic Compounds        M
+Acids, Heterocyclic        M
+Alkaloids        M
+Gemcitabine        M
+Heterocyclic Compounds, 1-Ring        M
+Heterocyclic Compounds, Bridged-Ring        M
+Heterocyclic Compounds, Fused-Ring        M
+Heterocyclic Oxides        M
+Polycyclic Compounds        M
+Bridged-Ring Compounds        M
+Fused-Ring Compounds        M
+Macrocyclic Compounds        M
+Polycyclic Aromatic Hydrocarbons        M
+Spiro Compounds        M
+Macromolecular Substances        M
+Micelles        M
+Multiprotein Complexes        M
+Polymers        M
+Protein Aggregates        M
+Hormones, Hormone Substitutes, and Hormone Antagonists        M
+Hormone Antagonists        M
+Hormones        M
+Enzymes and Coenzymes        M
+Coenzymes        M
+Cytochromes        M
+Enzyme Precursors        M
+Enzymes        M
+Carbohydrates        M
+Amino Sugars        M
+Deoxy Sugars        M
+Dietary Carbohydrates        M
+Glycoconjugates        M
+Glycosides        M
+Polysaccharides        M
+Sugar Acids        M
+Sugar Alcohols        M
+Sugar Phosphates        M
+Sugars        M
+Lipids        M
+Fats        M
+Fatty Acids        M
+Fatty Alcohols        M
+Glycerides        M
+Glycolipids        M
+Lipofuscin        M
+Lipopeptides        M
+Lipopolysaccharides        M
+Lipoproteins        M
+Membrane Lipids        M
+Oils        M
+Waxes        M
+Amino Acids, Peptides, and Proteins        M
+Amino Acids        M
+Peptides        M
+Proteins        M
+Nucleic Acids, Nucleotides, and Nucleosides        M
+Antisense Elements (Genetics)        M
+Nucleic Acid Precursors        M
+Nucleic Acids        M
+Nucleosides        M
+Nucleotides        M
+Complex Mixtures        M
+Biological Products        M
+Colloids        M
+Fossil Fuels        M
+Freund's Adjuvant        M
+Lignin        M
+Manure        M
+Particulate Matter        M
+Radioactive Pollutants        M
+Soil        M
+Tissue Extracts        M
+Vehicle Emissions        M
+Waste Products        M
+Biological Factors        M
+Antigens        M
+Antioxidants        M
+Biomarkers        M
+Blood Coagulation Factors        M
+Chemotactic Factors        M
+Immune Checkpoint Proteins        M
+Inflammation Mediators        M
+Intercellular Signaling Peptides and Proteins        M
+Pathogen-Associated Molecular Pattern Molecules        M
+Pheromones        M
+Phytochemicals        M
+Pigments, Biological        M
+Toxins, Biological        M
+Biomedical and Dental Materials        M
+Biocompatible Materials        M
+Dental Materials        M
+Membranes, Artificial        M
+Polymers        M
+Tissue Adhesives        M
+Pharmaceutical Preparations        M
+Dosage Forms        M
+Drug Combinations        M
+Drugs, Chinese Herbal        M
+Drugs, Essential        M
+Drugs, Investigational        M
+Medical Marijuana        M
+Pharmaceutic Aids        M
+Placebos        M
+Plant Extracts        M
+Solutions        M
+Veterinary Drugs        M
+Chemical Actions and Uses        M
+Pharmacologic Actions        M
+Specialty Uses of Chemicals        M
+Toxic Actions        M
+Diagnosis        M
+Clinical Decision-Making        M
+Diagnosis, Computer-Assisted        M
+Diagnosis, Differential        M
+Diagnostic Errors        M
+Diagnostic Techniques and Procedures        M
+Early Diagnosis        M
+Incidental Findings        M
+Prodromal Symptoms        M
+Prognosis        M
+Therapeutics        M
+Acoustic Stimulation        M
+Airway Management        M
+Biological Therapy        M
+Blood Component Removal        M
+Catheterization        M
+Clinical Protocols        M
+Combined Modality Therapy        M
+Complementary Therapies        M
+Cosmetic Techniques        M
+Cryotherapy        M
+Decompression        M
+Drainage        M
+Drug Therapy        M
+Electric Stimulation Therapy        M
+Emergency Treatment        M
+Feeding Methods        M
+Genomic Medicine        M
+Hemostatic Techniques        M
+Hygiene        M
+Hyperthermia, Induced        M
+Intubation        M
+Laser Therapy        M
+Magnetic Field Therapy        M
+Nutrition Therapy        M
+Obesity Management        M
+Organ Sparing Treatments        M
+Orthopedic Procedures        M
+Pain Management        M
+Patient Care        M
+Phototherapy        M
+Physical Therapy Modalities        M
+Precision Medicine        M
+Placebos        M
+Preservation, Biological        M
+Punctures        M
+Radiofrequency Therapy        M
+Radiotherapy        M
+Rehabilitation        M
+Remission Induction        M
+Renal Replacement Therapy        M
+Reproductive Techniques        M
+Respiratory Therapy        M
+Salvage Therapy        M
+Secondary Prevention        M
+Self Care        M
+Sex Reassignment Procedures        M
+Sorption Detoxification        M
+Therapeutic Occlusion        M
+Therapies, Investigational        M
+Therapy, Computer-Assisted        M
+Anesthesia and Analgesia        M
+Analgesia        M
+Anesthesia        M
+Conscious Sedation        M
+Surgical Procedures, Operative        M
+Ablation Techniques        M
+Ambulatory Surgical Procedures        M
+Anastomosis, Surgical        M
+Anterior Temporal Lobectomy        M
+Assisted Circulation        M
+Bariatric Surgery        M
+Biopsy        M
+Body Modification, Non-Therapeutic        M
+Cardiovascular Surgical Procedures        M
+Cytoreduction Surgical Procedures        M
+Debridement        M
+Decompression, Surgical        M
+Deep Brain Stimulation        M
+Device Removal        M
+Digestive System Surgical Procedures        M
+Dissection        M
+Drainage        M
+Elective Surgical Procedures        M
+Endocrine Surgical Procedures        M
+Extracorporeal Circulation        M
+Hemostasis, Surgical        M
+Laparotomy        M
+Ligation        M
+Lymph Node Excision        M
+Mastectomy        M
+Microsurgery        M
+Minimally Invasive Surgical Procedures        M
+Monitoring, Intraoperative        M
+Obstetric Surgical Procedures        M
+Neurosurgical Procedures        M
+Ophthalmologic Surgical Procedures        M
+Oral Surgical Procedures        M
+Orthopedic Procedures        M
+Ostomy        M
+Otorhinolaryngologic Surgical Procedures        M
+Pelvic Exenteration        M
+Perioperative Care        M
+Perioperative Period        M
+Plastic Surgery Procedures        M
+Pneumonectomy        M
+Prosthesis Implantation        M
+Punctures        M
+Reoperation        M
+Splenectomy        M
+Surgery, Computer-Assisted        M
+Thoracic Surgical Procedures        M
+Transplantation        M
+Ultrasonic Surgical Procedures        M
+Urogenital Surgical Procedures        M
+Wound Closure Techniques        M
+Investigative Techniques        M
+Accelerometry        M
+Anthropometry        M
+Artifacts        M
+Autopsy        M
+Biological Assay        M
+Catheterization        M
+Chemistry Techniques, Analytical        M
+Chemistry Techniques, Synthetic        M
+Clinical Laboratory Techniques        M
+Cytological Techniques        M
+Decision Support Techniques        M
+Dilatation        M
+Drug Development        M
+Electrochemical Techniques        M
+Endpoint Determination        M
+Epidemiologic Methods        M
+Equipment Design        M
+Equipment Failure        M
+Ergometry        M
+Evaluation Studies as Topic        M
+Finite Element Analysis        M
+Food Analysis        M
+Games, Experimental        M
+Genetic Techniques        M
+Immunologic Techniques        M
+In Vitro Techniques        M
+Interferometry        M
+Intubation        M
+Isotope Labeling        M
+Magnetometry        M
+Materials Testing        M
+Methods        M
+Microchip Analytical Procedures        M
+Micromanipulation        M
+Microscopy        M
+Models, Animal        M
+Models, Theoretical        M
+Molecular Probe Techniques        M
+Neoplasm Transplantation        M
+Neuroimaging        M
+Optical Imaging        M
+Parabiosis        M
+Perfusion        M
+Photography        M
+Physical Stimulation        M
+Preservation, Biological        M
+Psychological Techniques        M
+Radiometry        M
+Reproductive Techniques        M
+Rheology        M
+Sonication        M
+Sound Spectrography        M
+Stereotaxic Techniques        M
+Technology, Pharmaceutical        M
+Telemetry        M
+Therapeutic Irrigation        M
+Thermometry        M
+Toxicity Tests        M
+Trauma Severity Indices        M
+Vaccine Development        M
+Weights and Measures        M
+Whole Body Imaging        M
+Whole-Body Irradiation        M
+Dentistry        H
+Dental Equipment        M
+Dental Stress Analysis        M
+Endodontics        H
+Esthetics, Dental        H
+Oral Surgical Procedures        M
+Orthodontics        M
+Periodontics        H
+Preventive Dentistry        H
+Prosthodontics        M
+Technology, Dental        M
+Equipment and Supplies        M
+Bandages        M
+Bioreactors        M
+Catheters        M
+Contraceptive Devices        M
+Culture Media        M
+Dental Equipment        M
+Diagnostic Equipment        M
+Electrical Equipment and Supplies        M
+Equipment and Supplies, Hospital        M
+Exoskeleton Device        M
+Microbubbles        M
+Nanospheres        M
+Needles        M
+Optical Devices        M
+Phantoms, Imaging        M
+Prostheses and Implants        M
+Protective Devices        M
+Quantum Dots        M
+Radiation Equipment and Supplies        M
+Self-Help Devices        M
+Sensory Aids        M
+Surgical Equipment        M
+Surgically-Created Structures        M
+Tomography Scanners, X-Ray Computed        M
+Tourniquets        M
+Ventilators, Mechanical        M
+Behavior and Behavior Mechanisms        H
+Adaptation, Psychological        H
+Attitude        H
+Behavior        H
+Defense Mechanisms        M
+Emotions        H
+Human Development        M
+Mental Competency        H
+Motivation        H
+Neurobehavioral Manifestations        M
+Personality        H
+Psychology, Social        H
+Psychological Phenomena        M
+Mental Competency        H
+Mental Health        H
+Mental Processes        M
+Psycholinguistics        M
+Psychological Theory        M
+Psychology, Applied        M
+Psychomotor Performance        M
+Psychophysiology        M
+Resilience, Psychological        M
+Mental Disorders        H
+Anxiety Disorders        H
+Disruptive, Impulse Control, and Conduct Disorders        H
+Feeding and Eating Disorders        H
+Mood Disorders        H
+Neurocognitive Disorders        H
+Neurodevelopmental Disorders        H
+Personality Disorders        H
+Schizophrenia Spectrum and Other Psychotic Disorders        H
+Sexual Dysfunctions, Psychological        H
+Sleep Wake Disorders        H
+Substance-Related Disorders        H
+Trauma and Stressor Related Disorders        H
+Behavioral Disciplines and Activities        H
+Behavioral Sciences        H
+Mental Health Services        M
+Psychiatric Somatic Therapies        M
+Psychological Techniques        M
+Psychological Tests        M
+Psychotherapy        M
+Schizophrenic Psychology        H
+Physical Phenomena        M
+Absorption        M
+Adsorption        M
+Astronomical Phenomena        M
+Biophysical Phenomena        M
+Diffusion        M
+Elementary Particles        M
+Filtration        M
+Geological Phenomena        M
+Magnetic Phenomena        M
+Mechanical Phenomena        M
+Motion        M
+Optical Phenomena        M
+Phase Transition        M
+Radiation        M
+Scattering, Radiation        M
+Thermodynamics        M
+Time        M
+Chemical Phenomena        M
+Absorption        M
+Adsorption        M
+Anisotropy        M
+Biochemical Phenomena        M
+Catalysis        M
+Chemical Precipitation        M
+Crystallization        M
+Dialysis        M
+Diffusion        M
+Dimerization        M
+Drug Liberation        M
+Energy Transfer        M
+Filtration        M
+Hydrogen Bonding        M
+Hydrogen-Ion Concentration        M
+Hydrolysis        M
+Hydrophobic and Hydrophilic Interactions        M
+Molecular Structure        M
+Molecular Weight        M
+Neutron Diffraction        M
+Organic Chemistry Phenomena        M
+Osmolar Concentration        M
+Oxidation-Reduction        M
+Particle Size        M
+Permeability        M
+Phase Transition        M
+Photochemical Processes        M
+Polymerization        M
+Proton-Motive Force        M
+Solubility        M
+Surface Properties        M
+Viscosity        M
+X-Ray Diffraction        M
+Metabolism        M
+Absorption        M
+Acylation        M
+Alkylation        M
+Anaerobiosis        M
+Autotrophic Processes        M
+Biocatalysis        M
+Biological Transport        M
+Biotinylation        M
+Biotransformation        M
+Body Composition        M
+Brain Chemistry        M
+Carbohydrate Metabolism        M
+Cell Respiration        M
+Cyclization        M
+Dimerization        M
+Energy Metabolism        M
+Enzyme Activation        M
+Esterification        M
+Heterotrophic Processes        M
+Insulin Secretion        M
+Lipid Metabolism        M
+Metabolic Networks and Pathways        M
+Metabolome        M
+Osmoregulation        M
+Oxidative Stress        M
+Oxygen Consumption        M
+Peptide Biosynthesis        M
+Pharmacokinetics        M
+Phosphorylation        M
+Phototrophic Processes        M
+Prenylation        M
+Protein Binding        M
+Proteolysis        M
+Proteostasis        M
+Renin-Angiotensin System        M
+RNA Processing, Post-Transcriptional        M
+Cell Physiological Phenomena        M
+Autophagy        M
+Cell Adhesion        M
+Cellular Senescence        M
+Cell Communication        M
+Cell Count        M
+Cell Cycle        M
+Cell Death        M
+Cell Dedifferentiation        M
+Cell Differentiation        M
+Cell Growth Processes        M
+Cell Lineage        M
+Cell Movement        M
+Cell Polarity        M
+Cell Respiration        M
+Cell Size        M
+Cell Survival        M
+Cell Transdifferentiation        M
+Cellular Microenvironment        M
+Clonal Evolution        M
+Cytoplasmic Streaming        M
+DNA Packaging        M
+Endocytosis        M
+Endoplasmic Reticulum Stress        M
+Exocytosis        M
+Membrane Fusion        M
+Membrane Potentials        M
+Mitochondrial Turnover        M
+Organelle Shape        M
+Organelle Size        M
+Radiation Tolerance        M
+Signal Transduction        M
+Genetic Phenomena        M
+Biological Evolution        M
+Breeding        M
+Cell Division        M
+Cellular Reprogramming        M
+Clonal Evolution        M
+Consanguinity        M
+DNA Cleavage        M
+DNA Damage        M
+DNA Methylation        M
+DNA Packaging        M
+DNA Repair        M
+DNA Replication        M
+Gene Expression        M
+Gene Expression Regulation        M
+Gene Frequency        M
+Gene Rearrangement        M
+Genetic Fitness        M
+Genetic Linkage        M
+Genetic Structures        M
+Genetic Variation        M
+Genomic Instability        M
+Genotype        M
+Heredity        M
+Inheritance Patterns        M
+Molecular Mimicry        M
+Mutagenesis        M
+Phenotype        M
+Ploidies        M
+Recombination, Genetic        M
+Sequence Homology        M
+Sex Determination Processes        M
+Sex Ratio        M
+Structural Homology, Protein        M
+Virus Integration        M
+Microbiological Phenomena        M
+Bacterial Physiological Phenomena        M
+Biofilms        M
+Drug Resistance, Microbial        M
+Germ-Free Life        M
+Host Microbial Interactions        M
+Host-Pathogen Interactions        M
+Microbial Interactions        M
+Microbial Viability        M
+Microbiota        M
+Virus Physiological Phenomena        M
+Virulence        M
+Physiological Phenomena        M
+Adaptation, Physiological        M
+Body Constitution        M
+Body Temperature        M
+Chronobiology Phenomena        M
+Diet, Food, and Nutrition        M
+Dose-Response Relationship, Radiation        M
+Electrophysiological Phenomena        M
+Growth and Development        M
+Homeostasis        M
+Insulin Secretion        M
+Longevity        M
+Movement        M
+Organ Specificity        M
+Pharmacological and Toxicological Phenomena        M
+Radiation Tolerance        M
+Stress, Physiological        M
+Thermosensing        M
+Vestibulocochlear Physiological Phenomena        M
+Virus Shedding        M
+Reproductive and Urinary Physiological Phenomena        M
+Reproductive Physiological Phenomena        M
+Urinary Tract Physiological Phenomena        M
+Circulatory and Respiratory Physiological Phenomena        M
+Blood Physiological Phenomena        M
+Cardiovascular Physiological Phenomena        M
+Respiratory Physiological Phenomena        M
+Digestive System and Oral Physiological Phenomena        M
+Digestive System Physiological Phenomena        M
+Musculoskeletal and Neural Physiological Phenomena        M
+Musculoskeletal Physiological Phenomena        M
+Nervous System Physiological Phenomena        M
+Immune System Phenomena        M
+Antibody Affinity        M
+Antibody Specificity        M
+Antigen Presentation        M
+Antigen-Antibody Reactions        M
+Binding Sites, Antibody        M
+Blood Group Incompatibility        M
+CD4-CD8 Ratio        M
+Clonal Selection, Antigen-Mediated        M
+Complement Activation        M
+Cytotoxicity, Immunologic        M
+Immune Evasion        M
+Immunity        M
+Immunocompetence        M
+Immunocompromised Host        M
+Immunogenetic Phenomena        M
+Immunogenicity, Vaccine        M
+Immunologic Surveillance        M
+Immunomodulation        M
+Lymphocyte Activation        M
+Phagocytosis        M
+Transplantation Immunology        M
+Tumor Escape        M
+Integumentary System Physiological Phenomena        M
+Hair Color        M
+Skin Physiological Phenomena        M
+Ocular Physiological Phenomena        M
+Adaptation, Ocular        M
+Dominance, Ocular        M
+Evoked Potentials, Visual        M
+Eye Movements        M
+Intraocular Pressure        M
+Refraction, Ocular        M
+Vision, Ocular        M
+Visual Acuity        M
+Visual Fields        M
+Plant Physiological Phenomena        M
+Photosynthesis        M
+Plant Diseases        M
+Plant Immunity        M
+Plant Transpiration        M
+Biological Phenomena        M
+Adaptation, Biological        M
+Animal Distribution        M
+Biological Evolution        M
+Biological Variation, Individual        M
+Biological Variation, Population        M
+Ecological and Environmental Phenomena        M
+Extinction, Biological        M
+Host Microbial Interactions        M
+Pigmentation        M
+Recovery of Function        M
+Regeneration        M
+Remission, Spontaneous        M
+Species Specificity        M
+Symbiosis        M
+Mathematical Concepts        M
+Algorithms        M
+Decision Theory        M
+Neural Networks, Computer        M
+Nomograms        M
+Probability        M
+Sensitivity and Specificity        M
+Statistical Distributions        M
+Stochastic Processes        M
+Natural Science Disciplines        M
+Biological Science Disciplines        M
+Chemistry        M
+Earth Sciences        M
+Mathematics        M
+Microtechnology        M
+Nanotechnology        M
+Physics        M
+Science        M
+Health Occupations        M
+Allied Health Occupations        M
+Dentistry        H
+Environmental Health        H
+Evidence-Based Practice        M
+Health Services Administration        M
+Hospital Administration        M
+Medicine        H
+Nursing        H
+Pharmacology        H
+Specialization        M
+Veterinary Medicine        M
+Social Sciences        M
+Anthropology        M
+Criminology        M
+Demography        M
+Economics        M
+Environment Design        M
+Forecasting        M
+Government        M
+Internationality        M
+Policy        M
+Political Systems        M
+Politics        M
+Private Sector        M
+Quality of Life        M
+Sociology        M
+Education        M
+Curriculum        M
+Education, Distance        M
+Education, Nonprofessional        M
+Education, Professional        M
+Educational Measurement        M
+Needs Assessment        M
+Schools        M
+Teaching        M
+Human Activities        M
+Activities of Daily Living        M
+Automobile Driving        M
+Exercise        M
+Leisure Activities        M
+Retirement        M
+Screen Time        M
+Self-Testing        M
+Stakeholder Participation        M
+Travel        M
+Work        M
+Technology, Industry, and Agriculture        M
+Agriculture        M
+Commerce        M
+Conservation of Natural Resources        M
+Engineering        M
+Household Products        M
+Industry        M
+Manufactured Materials        M
+Power Plants        M
+Technology        M
+Transportation        M
+Food and Beverages        M
+Beverages        M
+Fermented Foods        M
+Food        M
+Non-Medical Public and Private Facilities        M
+Correctional Facilities        M
+Laboratories        M
+Manufacturing and Industrial Facilities        M
+Residential Facilities        M
+Schools        M
+Humanities        M
+Art        M
+Awards and Prizes        M
+History        M
+Knowledge        M
+Music        M
+Philosophy        M
+Religion        M
+Information Science        M
+Classification        M
+Communication        M
+Computing Methodologies        M
+Copying Processes        M
+Data Display        M
+Data Science        M
+Informatics        M
+Information Management        M
+Information Sources        M
+Information Storage and Retrieval        M
+Language        M
+Publishing        M
+Systems Analysis        M
+Persons        M
+Age Groups        M
+Athletes        M
+Caregivers        M
+Child of Impaired Parents        M
+Crime Victims        M
+Disabled Persons        M
+Emigrants and Immigrants        M
+Health Disparate Minority and Vulnerable Populations        M
+Ill-Housed Persons        M
+Medically Uninsured        M
+Mentors        M
+Minors        M
+Occupational Groups        M
+Parents        M
+Patients        M
+Population Groups        M
+Prisoners        M
+Refugees        M
+Research Subjects        M
+Sex Workers        M
+Sexual Partners        M
+Siblings        M
+Smokers        M
+Spouses        M
+Students        M
+Survivors        M
+Tissue Donors        M
+Transgender Persons        M
+Transients and Migrants        M
+Transplant Recipients        M
+Veterans        M
+Volunteers        M
+Women        M
+Population Characteristics        M
+Demography        M
+Health        M
+Population        M
+Socioeconomic Factors        M
+Health Care Facilities, Manpower, and Services        M
+Health Communication        M
+Health Facilities        M
+Health Workforce        M
+Health Personnel        M
+Health Services        M
+Health Care Economics and Organizations        M
+Economics        M
+Health Planning        M
+Organizations        M
+Policy        M
+Social Control, Formal        M
+Health Services Administration        M
+Organization and Administration        M
+Patient Care Management        M
+Quality of Health Care        M
+Health Care Quality, Access, and Evaluation        M
+Delivery of Health Care        M
+Ethics        M
+Health Services Research        M
+Quality Assurance, Health Care        M
+Quality of Health Care        M
+Environment and Public Health        M
+Environment        M
+Public Health        M
+Female        M
+Male        M
+Geographic Locations        M
+Africa        M
+Americas        M
+Antarctic Regions        M
+Asia        M
+Cities        M
+Europe        M
+Historical Geographic Locations        M
+Islands        M
+Oceania        M
+Oceans and Seas        M
+Fusobacteria        M
+Eye Manifestations        M
+Azo Compounds        M
+Neutrophil Infiltration        M
+Parthenogenesis        M
