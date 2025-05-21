@@ -8,7 +8,7 @@ import re
 import json
 import pandas as pd
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="###")
 
 keywords_file = "paper_keyword_mapping.txt"     
 domain_terms_file = "term_domains.txt"          
