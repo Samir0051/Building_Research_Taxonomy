@@ -1,3 +1,5 @@
+Original Python code used for automatically generating bioinformatic research taxonomies based off of list of papers!
+
 Set-Up Instructions
 
 - Create a directory inlcuding all of the repositories files
